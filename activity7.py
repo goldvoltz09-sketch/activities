@@ -1,0 +1,25 @@
+a=25
+b=1.5
+c=True
+d="five"
+print("a:",a)
+print("type of a is",type(a))
+print("b:",b)
+print("type of a is",type(b))
+print("c:",c)
+print("type of c is",type(c))
+print("d:",d)
+print("type of d is",type(d))
+print("after typecasting")
+a= str(a)
+print(a)
+print("data type of a is",type(a))
+b= int(b)
+print(b)
+print("data type of b is",type(b))
+c= str(c)
+print(c)
+print("data type of c is",type(c))
+d= int(d)
+print(d)
+print("data type of d is",type(d))
