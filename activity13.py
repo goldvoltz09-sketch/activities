@@ -1,0 +1,15 @@
+d1="9/01/2011"
+n1="John"
+d2="25/07/2011"
+n2="Tim"
+d3="14/11/2011"
+n3="Barry"
+d4="11/09/2011"
+n4="Jeremy"
+d5="03/04/2011"
+n5="Will"
+print(n1,d1)
+print(n2,d2)
+print(n3,d3)
+print(n4,d4)
+print(n5,d5)
