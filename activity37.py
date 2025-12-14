@@ -1,0 +1,10 @@
+a=int(input("enter a number"))
+b=int(input("enter a number"))
+c=int(input("enter a number"))
+d=int(input("enter a number"))
+e=int(input("enter a number"))
+f=int(input("enter a number"))
+g=int(input("enter a number"))
+h=int(input("enter a number"))
+z=(a+b+c+d+e+f+g+h)/8
+print("The average is:",z)
